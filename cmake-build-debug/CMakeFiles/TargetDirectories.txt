@@ -1,0 +1,17 @@
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BinarySearch.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BubbleSort.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/MergeSort.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SelectionSort.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SortedLinkedList.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BinarySearch_autogen_timestamp_deps.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BinarySearch_autogen.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BubbleSort_autogen_timestamp_deps.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/BubbleSort_autogen.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/MergeSort_autogen_timestamp_deps.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/MergeSort_autogen.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SelectionSort_autogen_timestamp_deps.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SelectionSort_autogen.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SortedLinkedList_autogen_timestamp_deps.dir
+/home/iquick/Documents/Proyectos C/Tarea2/cmake-build-debug/CMakeFiles/SortedLinkedList_autogen.dir
