@@ -129,7 +129,7 @@ void plotResults(QCustomPlot* customPlot, const vector<int>& sizes, const vector
     // Llenar los datos
     for (size_t i = 0; i < sizes.size(); ++i) {
         x[i] = sizes[i];
-        yBest[i] = bestCaseTimes[i]; // Añadir un pequeño valor constante para elevar la línea
+        yBest[i] = bestCaseTimes[i]; 
         yWorst[i] = worstCaseTimes[i];
         yAvg[i] = avgCaseTimes[i];
     }
